@@ -1,10 +1,10 @@
 # Java EE Developer
 
-![Java Enterprise Edition Intensive Course ](https://img.shields.io/badge/Java%20Enterprise%20Edition-%20Intensive%20Course%20-orange.svg)
+![Java Enterprise Edition (JEE7) Intensive Course ](https://img.shields.io/badge/Java%20Enterprise%20Edition%20(JEE7)-%20Intensive%20Course%20-orange.svg)
 
 **Java EE Back-end Bootcamp**
 
-Intensive course for beginners who wish to become a back-end developer by using JEE7, which is one of the most popular platforms for web, desktop and mobile application development. It is a best practices based course that covers the comprehensive topics programming with Java EE such as:
+Intensive course for beginners who wish to become a back-end developer by using JEE7, which is one of the most popular platforms for application development. It is a best practices based course that covers the comprehensive topics programming with Java EE such as:
 
 1. Java EE 7
    - Java Application Server (WildFly)
@@ -28,3 +28,9 @@ Intensive course for beginners who wish to become a back-end developer by using 
 13. The MVC Pattern with JEE7 
 14. Bean Validation with EJB
 15. Security API 
+
+### Summary
+
+ :fire: Getting to know Java Enterprise Edition version 7 and the application server that implement it<br>
+ :fire: Business application based on WildFly application server<br>
+ :fire: Two Hackathons of practical programming
