@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.Button?>
+
+<GridPane xmlns:fx="http://codeme.pl/jeeb/e2" fx:controller="pl.codeme.jeeb.e2.bank.ATMController">
+    <children>
+        <Label text="ATM Bank CODE:ME" GridPane.columnIndex="0" GridPane.rowIndex="0"/>
+        <TextArea fx:id="messages" editable="false" GridPane.columnIndex="0" GridPane.rowIndex="1"/>
+        <TextField fx:id="cmd" GridPane.columnIndex="0" GridPane.rowIndex="2"/>
+        <Button text="SEND" onMouseClicked="#send" GridPane.columnIndex="1" GridPane.rowIndex="2"/>
+    </children>
+</GridPane>
