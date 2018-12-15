@@ -4,16 +4,16 @@
 
 **Java EE Back-end Bootcamp**
 
-Intensive course for beginners who wish to become a back-end developer by using JEE7, which is one of the most popular platforms for application development. This is a course based on best practices, including the specification of the Java EE 7 platform, such as:
+Intensive course for beginners who wish to become a back-end developer by using JEE7, which is one of the most popular platforms for application development. This is a course based on best practices, including the specification of the Java Enterprise Edition platform, such as:
 
 
 1. Java Application Server (WildFly)
-2. Servlet API
-3. RESTful Web Services (JAX-RS 2.0)
-4. JSON Processing (JSON-P 1.0)
+2. RESTful Web Services (JAX-RS 2.0)
+3. JSON Processing (JSON-P 1.0)
    - JAXB and JSON
-5. Java SE and client JAX-RS 2.0
+4. Java SE and client JAX-RS 2.0
    - JavaFX (FXML)
+5. Servlet 4.0 API
 6. Bean Validation API
 7. Bean Validation with EJB
 8. WebSocket (WebSocket) 1.0 
@@ -31,6 +31,6 @@ Intensive course for beginners who wish to become a back-end developer by using 
 
 ### Summary
 
- :fire: Getting to know Java Enterprise Edition version 7 and the application server that implement it<br>
+ :fire: Getting to know Java EE 7 and the application server that implement it<br>
  :fire: Business application based on WildFly application server<br>
  :fire: Two Hackathons of practical programming
